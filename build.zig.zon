@@ -2,7 +2,7 @@
     .name = .libdrm,
     .version = "2.4.131",
     .dependencies = .{
-        .upstream = .{
+        .libdrm_c = .{
             .url = "https://gitlab.freedesktop.org/mesa/libdrm/-/archive/libdrm-2.4.131/libdrm-libdrm-2.4.131.tar.gz",
             .hash = "N-V-__8AAC3VLACNGc7Wsy7XkL-SyMdb3mfe_MPouEAZNt-A",
         },
